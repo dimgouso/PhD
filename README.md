@@ -1,2 +1,1 @@
-# PhD
-educational simulations of special relativity
+# Educational Simulations of Special Relativity
