@@ -8,3 +8,10 @@ https://www.didaktorika.gr/eadd/handle/10442/39528
 http://synedrio2017.enephet.gr/images/Praktika-10ou-Synedriou_Teliko.pdf 
 - και στο 9ο Πανελλήνιο Συνέδριο ΔΙΔΑΚΤΙΚΗΣ ΤΩΝ ΦΥΣΙΚΩΝ ΕΠΙΣΤΗΜΩΝ ΚΑΙ ΝΕΩΝ ΤΕΧΝΟΛΟΓΙΩΝ ΣΤΗΝ ΕΚΠΑΙΔΕΥΣΗ σελ. 380-386
 https://drive.google.com/file/d/1K1u1enM75YfDwQ5mZs5s97gCMEQBKAPv/view
+
+## Παρατηρήσεις 
+1. Το OER με τίτλο: Αναλλοίωτο της ταχύτητας του φωτός βρίσκεται στο zip file και συγκεκριμένα στο φάκελο με όνομα RS_LightSpeed
+2. Το OER με τίτλο: Σχετικότητα του Ταυτοχρονισμού βρίσκεται στο zip file και συγκεκριμένα στο φάκελο με όνομα RelativityConcurrent
+3. Το OER με τίτλο: Διαστολή Χρόνου βρίσκεται στο zip file και συγκεκριμένα στο φάκελο με όνομα RelativityLight  
+4. Το OER με τίτλο: Διαστολή χρόνου, όρια με κλασική φυσική βρίσκετα στο repository με το όνομα Διαστολή Χρόνου
+5. Το OER με τίτλο: Συστολή Μήκους βρίσκεται στο zip file και συγκεκριμένα στο φάκελο με όνομα RelativityRod  (zip file)
